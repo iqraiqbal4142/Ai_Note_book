@@ -24,7 +24,7 @@ Facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=6155025
 
 [ Assinment no 1](https://drive.google.com/file/d/1Gf81okuw0GoW_FEynDSHt3dcDyuZsri6/view?usp=drive_link)
 
- [Assinment no 2,3](https://drive.google.com/drive/folders/1zN3q_9AH-oBlf5XDDAbQ-XBVcElpAUa0)
+ [Assinment no 2,3](https://drive.google.com/file/d/10x-aj_xYfFikG1ssbFE6ziQ4Sk5hE-I9/view?usp=sharing)
 
 [ Assinment 4](https://drive.google.com/file/d/13MghPIcmcvl-QnlGFbvC3CUjbLKRB9rV/view?usp=drive_link)
 
