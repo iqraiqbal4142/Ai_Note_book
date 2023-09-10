@@ -32,11 +32,11 @@ Facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=6155025
 
 [Assinment 6](https://drive.google.com/file/d/1Cuac_6iDNT9pHreJePuNvVYKfziG2rpM/view?usp=drive_link)
 # Chapter 2: EDA
-[Assinment 7](https://colab.research.google.com/drive/196ivTSQ2dbpkA57umTX71jP99JUtJron) Eda Basics Titanic Dataset
+[Assinment 7](https://github.com/iqraiqbal4142/Ai_Note_book/blob/3c927058df8d89c3497fced847d22cdd6f2ad273/iqraEDA%20(1).ipynb) Eda Basics Titanic Dataset
 
-[ Assinment 8](https://drive.google.com/file/d/15RsiI4PBy26EhQu1gtIrp3zsSrlDUiu9/view?usp=drive_link) play_store
+[ Assinment 8](https://github.com/iqraiqbal4142/Ai_Note_book/blob/3c927058df8d89c3497fced847d22cdd6f2ad273/Assinment_8_Eda_of_play_store_data_set.ipynb) play_store
 
-[Assinment 9](https://colab.research.google.com/drive/15Vl8n_d6slgpo8GyFd2c6UtRUJIthw9a)  Apple App Data Analysis
+[Assinment 9](https://github.com/iqraiqbal4142/Ai_Note_book/blob/3c927058df8d89c3497fced847d22cdd6f2ad273/apple_dataset_analysis.ipynb)  Apple App Data Analysis
 
 [Assinment 10](https://drive.google.com/file/d/1Dq-PoCFOJFZCY5lJd0_r9IioZOo7Poei/view?usp=drive_link) Friday_sale_Data_Analysis
 
@@ -44,46 +44,45 @@ Facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=6155025
 
 
 # Chapter 3: Labels and Features
-[Assinment 11](https://drive.google.com/file/d/16wv6NLCxghjTfPQo1D3gnS1REdgtQS_W/view?usp=sharing)
+[Assinment ](https://drive.google.com/file/d/16wv6NLCxghjTfPQo1D3gnS1REdgtQS_W/view?usp=sharing)
 
-#Chapter 4: Medium Articles
+# Chapter 4: Medium Articles
 
-[Assinment 12](https://medium.com/@iqra.iqbal4142)
+[Assinment ](https://medium.com/@iqra.iqbal4142)
 
-# Chapter 5:Machine Learning Algorithms and Their
-Types:
+# Chapter 5:Machine Learning Algorithms and Types:
 
-[Assinment 12](https://drive.google.com/file/d/1NMztNqS8tCIo3MVtmEdcn8riGgGlFnHA/view?usp=drive_link)
+[Assinment ](https://drive.google.com/file/d/1NMztNqS8tCIo3MVtmEdcn8riGgGlFnHA/view?usp=drive_link)
 
 # Chapter 6: Linear Regression
 
-[Assinment 13](https://drive.google.com/file/d/1xLIunfMCamw9u6XTOkrMtTnNv93cXsv4/view?usp=drive_link)
+[Assinment ](https://drive.google.com/file/d/1xLIunfMCamw9u6XTOkrMtTnNv93cXsv4/view?usp=drive_link)
 
 
 
 # Chapter 7: Multilinear Regression
 
-[Assinment 13](https://drive.google.com/file/d/1zbnoQrVDV-1XWWW_mElntC_ubEdzb6Ti/view?usp=drive_link)
+[Assinment ](https://drive.google.com/file/d/1zbnoQrVDV-1XWWW_mElntC_ubEdzb6Ti/view?usp=drive_link)
 
 # Chapter 8: Polynomial Regression
-[Assinment 13](https://colab.research.google.com/drive/13UcIGc61pXKPhJ97kEDQBjHLEQ72waZ-?usp=sharing)
+[Assinment ](https://github.com/iqraiqbal4142/Ai_Note_book/blob/c46d9788146ad5a9f894db7cc795cb58492e70b5/Polynomial_regression.ipynb)
 
 
-#Chapter 9:Logistic Regresion
+# Chapter 9:Logistic Regresion
 
-[Assinment 14](https://drive.google.com/file/d/1Nl1WHmfzuLgJgsnVGwPBJ-FgkMpqGCn6/view?usp=sharing)
+[Assinment ](https://github.com/iqraiqbal4142/Ai_Note_book/blob/dc3f9dfb2cb815da1f3a497d1179b66d1bb1f790/Logistic_regression.ipynb)
 
 
 
 # Chapter 10: Logistic regresion and classification
 
-[Assinment 14](https://drive.google.com/file/d/1LV8vWtwCjoR6Wl3dln4JocRXUm1OwxqY/view?usp=drive_link)
+[Assinment ](https://github.com/iqraiqbal4142/Ai_Note_book/blob/dc3f9dfb2cb815da1f3a497d1179b66d1bb1f790/Logistic_regression.ipynb)
 
 
 # Chapter 11: Regression and classification metrics
 
 [Assinment
-](https://colab.research.google.com/drive/1E-v7O4v1SFWZ44dc0QilIG492iBxDP_d?usp=sharing)
+](https://drive.google.com/file/d/1Nl1WHmfzuLgJgsnVGwPBJ-FgkMpqGCn6/view?usp=sharing)
 
 # Chapter 12: Encoding Method
 
@@ -93,17 +92,17 @@ Types:
 [Assinment](https://drive.google.com/file/d/1Ji_XmNyPhZO_MxIhoTrs3P1_gz42LFmT/view?usp=drive_link)
 
 #Chapter 14: SVM
-[Assinment](https://colab.research.google.com/drive/12DtrBkQzrSnTQGGRsgHfdHv8WnCEOI2A?usp=sharing)
+[Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/835b0ea3f196ae6786dae4b77d76048b0df1ef4b/SVM.ipynb)
 
 # Chapter 15: Cross Validation
 [Assinment
-](https://colab.research.google.com/drive/1MUJ139zbYrl-kNJmGR0MfljD7LbVnRZ4?usp=sharing)
+](https://github.com/iqraiqbal4142/Ai_Note_book/blob/17644f882d3c973b059a5752094a121bc87ae5da/cross_validation.ipynb)
 
-#chapter 16: Hyperparameter_tunning
-[Assinment](https://colab.research.google.com/drive/1IpftWMbu2xhEeZfgxc8E_XyKypBTcZ2n?usp=sharing)
+# chapter 16: Hyperparameter_tunning
+[Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/c4bdd7e5453a41c3d6fc9064c5a1695dfb9b6e6b/Hyperparameters_tuning.ipynb)
 
 # Chapter 17:K-Nearest-Neighboure
-[Assinment](https://colab.research.google.com/drive/1eQ7pL_lll0AS6UEMtX9k5XsdSgjYxYM7?usp=sharing)
+[Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/6d28ae99162070e98703904d3119f2aa166e6e41/KNN.ipynb)
 
 # Chapter 18: LLM Models
 [Assinment](https://drive.google.com/file/d/1-9ZPmBnFd9WfFssrRyPdKI3dgWKdbb8h/view?usp=drive_link)
@@ -138,23 +137,23 @@ Types:
 
 
  # Chapter 23: Regresion in Deep learning
-  [Assinment](https://colab.research.google.com/drive/1gXl4bj9aT7DpODNHtaeOWGd3LgdQcdIx?usp=sharing
+  [Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/1092cdc356add9684bba96c06b2bb1daee3ae3e4/Regression_in_DL_with_TensorFlow%60.ipynb)
   )
 
 
 # chapter 24 :CNN
-[Assinment ](https://colab.research.google.com/drive/1BmBUrDl__QaS3QoElmv1Fqj4NTFA5yiK?usp=sharing)
+[Assinment ](https://github.com/iqraiqbal4142/Ai_Note_book/blob/19a0392e47ab647bebe9427ca7ba21ad2e2f8eed/OPen_cv2.ipynb)
 
 # Chapter 25: ANN
-[Assinment](https://colab.research.google.com/drive/1u80AnlFmfJeAcpH0xE3KFQ4kdCmOnDar?usp=sharing)
+[Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/d6d7c51fc94040e0553089eb3fc3e59ac5fd6727/ANN.ipynb)
 
-[Assinment](https://colab.research.google.com/drive/17SMSbD-BUpXOZkv-gA9Hlqsx2S6EecVf?usp=sharing) ANN classification
+[Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/06bf62210defb972f4d67b76800c1c114d1a0363/ANN_Classification.ipynb) ANN classification
 
-[Assinment ](https://colab.research.google.com/drive/1SeYyaLyYo3L8ttEPaoLhI2twWdqlz0RL?usp=sharing) ANN Regression
+[Assinment ](https://github.com/iqraiqbal4142/Ai_Note_book/blob/3c209d1f7d649d3236179e19c92e28034b2584b4/ANN_Regression.ipynb) ANN Regression
 
 
   # Chapter 26:RNN
-   [Assinment](https://colab.research.google.com/drive/1g7xwueKcoWAEbSBt3fg_OuefZlEZeJaB?usp=sharing)
+   [Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/2f575c6cdc103bb67ff42e1afe9633bc5d4dbc29/RNN.ipynb)
 
    
 
