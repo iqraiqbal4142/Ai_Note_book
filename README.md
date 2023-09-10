@@ -1,7 +1,7 @@
 # Ai_Note_book
-# *My notebook of all assinment **
-##iqra iqbal
-##iqra.iqbal4142@gmail.com
+# My notebook of all assinment 
+## iqra iqbal
+## iqra.iqbal4142@gmail.com
 
 # Social Accounts
 [
