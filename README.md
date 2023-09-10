@@ -91,7 +91,7 @@ Facebook](https://www.facebook.com/profile.php?viewas=100000686899395&id=6155025
 # Chapter 13: Magic commands in python
 [Assinment](https://drive.google.com/file/d/1Ji_XmNyPhZO_MxIhoTrs3P1_gz42LFmT/view?usp=drive_link)
 
-#Chapter 14: SVM
+# Chapter 14: SVM
 [Assinment](https://github.com/iqraiqbal4142/Ai_Note_book/blob/835b0ea3f196ae6786dae4b77d76048b0df1ef4b/SVM.ipynb)
 
 # Chapter 15: Cross Validation
